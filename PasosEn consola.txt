@@ -1,0 +1,8 @@
+touch: crea un archivo nuevo de todo tipo o extension
+ls o dir: es para visualizar el contenido de una carpeta
+echo: es para poner un texto en un archivo
+cat: es para leer el contenido de un archivo 
+git init: para inicializar un repositorio
+git status: ver el estado del proyecto, nos dira que archivos no han sido respaldados
+
+
